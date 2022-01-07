@@ -1,0 +1,8 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2014/08/10 12:32:50	/xtok2/logout.php	val	Sair	::1				
+2014/08/10 12:33:33	/xtok2/login.php	faustino	Falha: 1	::1				
+2014/08/10 12:35:16	/xtok2/login.php	faustino	Entrar	::1				
+2014/08/10 12:40:56	/xtok2/logout.php	FAUSTINO	Sair	::1				
+2014/08/10 12:41:23	/xtok2/login.php	faustino	Entrar	::1				
+2014/08/10 12:41:39	/xtok2/logout.php	FAUSTINO	Sair	::1				
+2014/08/10 12:41:46	/xtok2/login.php	val	Entrar	::1				

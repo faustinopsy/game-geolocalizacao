@@ -1,0 +1,23 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2014/08/11 16:57:15	/xtok2/login.php	faustino	Entrar	::1				
+2014/08/11 17:54:39	/xtok2/logout.php	FAUSTINO	Sair	::1				
+2014/08/11 18:03:20	/xtok2/login.php	faustino	Entrar	::1				
+2014/08/11 18:20:08	/xtok2/logout.php	FAUSTINO	Sair	::1				
+2014/08/11 18:20:15	/xtok2/login.php	faustino	Entrar	::1				
+2014/08/11 20:09:08	/xtok2/login.php	val	Entrar	::1				
+2014/08/11 20:51:44	/xtok2/login.php	faustino	Usuario já esta Logado	::1				
+2014/08/11 20:52:50	/xtok2/login.php	hulk	Senha Expirada	::1				
+2014/08/11 20:53:14	/xtok2/login.php	hulk	Entrar	::1				
+2014/08/11 20:54:19	/xtok2/logout.php	HULK	Sair	::1				
+2014/08/11 20:54:27	/xtok2/login.php	faustino	Usuario já esta Logado	::1				
+2014/08/11 20:55:37	/xtok2/login.php	faustino	Entrar	::1				
+2014/08/11 21:28:09	/xtok2/logout.php	val	Sair	::1				
+2014/08/11 21:28:19	/xtok2/login.php	hulk	Entrar	::1				
+2014/08/11 21:49:15	/xtok2/logout.php	HULK	Sair	::1				
+2014/08/11 21:49:20	/xtok2/login.php	faustino	Usuario já esta Logado	::1				
+2014/08/11 21:49:29	/xtok2/logout.php	FAUSTINO	Sair	::1				
+2014/08/11 21:49:35	/xtok2/login.php	faustino	Entrar	::1				
+2014/08/11 22:57:22	/xtok2/logout.php	FAUSTINO	Sair	::1				
+2014/08/11 22:57:42	/xtok2/login.php	faustino	Entrar	::1				
+2014/08/11 23:31:48	/xtok2/login.php	faustino	Entrar	::1				
+2014/08/11 23:37:11	/xtok2/logout.php	FAUSTINO	Sair	::1				

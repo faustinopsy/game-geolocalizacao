@@ -1,0 +1,3 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2015/08/06 22:04:58	/xtok2/login.php	faustino	Senha Expirada	::1				
+2015/08/06 22:05:11	/xtok2/login.php	faustino	Entrar	::1				
